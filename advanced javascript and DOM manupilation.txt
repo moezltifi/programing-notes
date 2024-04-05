@@ -1,3 +1,3 @@
 -Document Object Model(DOM) : structure of a document—such as the HTML representing a web page
 -The addEventListener() method is the  way used to register an event listener. 
-addEventListener(type, listener) type as keypress and click
+addEventListener(type, listener) type as keypress(to use and controle the keyboard) and click(to controle the button)
