@@ -7,3 +7,5 @@
 -Front-end development: This contains everything related to what users interact with directly in a web application or website. This includes HTML, CSS, and JavaScript
 
 -Back-end development : This contains the logic it consists of three main components the server, the application, the database where you can store and retrive user data . It includes python, node.js, java
+
+-Node JS : it is a JavaScript framworck and he is the most framworck used in the whord now 
