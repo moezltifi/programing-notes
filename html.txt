@@ -1,0 +1,18 @@
+-ISP: internet service provider
+
+-DNS: domain name system
+
+-> the HTML(HyperText Markup language) code file is responsible for the content in your website so if a website was a house then the HTML would be the actual bricks of the house
+
+-> the JS is the code that allows your website to actually do things or have functionality 
+
+-><ul></ul> unordered list  Exp:  	-object
+		                		    -object
+                                    -object
+
+-><ol></ol> ordered list  Exp:  	1-object
+	                            	2-object
+                            		3-object
+
+<a href="right a link">right the  link name</a>
+

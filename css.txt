@@ -1,0 +1,37 @@
+-> the CSS ( Cascading Style Sheets ) files are responsible for styling your website
+
+there's three way of ading CSS into an html website :
+                                  	1-Inline                                        2-Internale                                 3-External
+
+                         <tag style="CSS">                       <style>CSS</style>               <link href="style.css"/>
+
+Exemples of CSS propreties:			-font-size
+					-font-family
+					-background-color
+					-color....
+
+1-Group = apply to both selectors
+selector,selector{
+	color : red;
+}
+2-Child = apply to direct child of left side
+selector > selector{
+	color : red;
+}
+3-Descendent =apply to a descendent of left side
+selector  selector{
+	color : red;
+}
+4-Chaining =apply where All selectors are true
+selectorselector{
+	color : red;;
+}
+5-combining combiners
+selector selectorselector{
+	font-size : 2em;
+}
+
+
+.  for classe
+#  for id
+No thing for element

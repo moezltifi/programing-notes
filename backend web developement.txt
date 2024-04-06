@@ -8,4 +8,4 @@
 
 -Back-end development : This contains the logic it consists of three main components the server, the application, the database where you can store and retrive user data . It includes python, node.js, java
 
--Node JS : it is a JavaScript framworck and he is the most framworck used in the whord now 
+-Node JS : it is a JavaScript framworck and he is the most framworck used in the world now 
