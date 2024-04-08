@@ -6,3 +6,4 @@ rmdir or rm -r : to memove a directory
 rm : to remove a file
 cd path : to open a directory or a file
 cd .. : to return to father directory
+git config --global user.email "you@example.com" :to connect the editor with the github
