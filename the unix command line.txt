@@ -6,4 +6,9 @@ rmdir or rm -r : to memove a directory
 rm : to remove a file
 cd path : to open a directory or a file
 cd .. : to return to father directory
+<<<<<<< HEAD
+npm init : help you to create your configuration file called package.json.
+npm install package-name : to install the package 
+=======
 git config --global user.email "you@example.com" :to connect the editor with the github
+>>>>>>> 9f941c0bf35d47a7261fe388f2b703a696836fc2

@@ -1,0 +1,17 @@
+V8 Engine : it's written in C and and C++ it's blazingly fast and powers the chrome browser
+
+natave node module :
+                    const fs = require("fs")
+
+                    fs.writeFile(file-name, data , (err) => {
+                        if (err) throw err;
+                        console.log('The file has been saved!');
+                    }); :to white a file
+
+
+                    fs.readFile('/etc/passwd', 'utf8', (err, data ) => {
+                        if (err) throw err;
+                        console.log(data); 
+                    }); : to read a file
+
+NPM : node package manager
